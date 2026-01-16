@@ -1,6 +1,7 @@
-import Header from '@/components/Header';
-import ConversionPanel from '@/components/ConversionPanel';
-import Footer from '@/components/Footer';
+import Header from "../components/Header";
+import ConversionPanel from "../components/ConversionPanel";
+import Footer from "../components/Footer";
+
 
 const Index = () => {
   return (
